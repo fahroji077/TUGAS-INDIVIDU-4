@@ -6,28 +6,26 @@ KONSEP 1
 
 ![image](https://user-images.githubusercontent.com/93015185/139532008-65d10d69-91d4-4d2c-b14e-7c9d71d63b7c.png)
 ![image](https://user-images.githubusercontent.com/93015185/139532016-affb00ad-bc8f-46cd-9a91-dc10e6f7371a.png)
-
+![image](https://user-images.githubusercontent.com/93015185/139532060-6f534fce-b4d8-44fc-b26e-2d5165fc4b9f.png)
 
 2. menghitung jarak
 
-![image](https://user-images.githubusercontent.com/93015185/139531748-d0db7cae-7844-45e2-bbdb-9649021ac523.png)
-![image](https://user-images.githubusercontent.com/93015185/139531758-d7e0c8ff-cafe-407e-8f50-95c11e14459f.png)
-![image](https://user-images.githubusercontent.com/93015185/139531775-d0c12560-ba61-4ad5-91aa-4a8a3aa2baaf.png)
+![image](https://user-images.githubusercontent.com/93015185/139532075-1ff872b1-acdd-4f48-977a-d3d9d4d867be.png)
+![image](https://user-images.githubusercontent.com/93015185/139532083-519feaaf-df0d-47a5-9d14-e9741b3d6b53.png)
+![image](https://user-images.githubusercontent.com/93015185/139532110-72384abc-ebc2-425b-aa8f-f04d3d88c146.png)
 
 3. menghitung waktu
 
-![image](https://user-images.githubusercontent.com/93015185/139531796-e49762d3-bd62-4625-a27d-c094a9170796.png)
-![image](https://user-images.githubusercontent.com/93015185/139531806-c72b8c65-f907-47b2-8863-440aea6d63dc.png)
-![image](https://user-images.githubusercontent.com/93015185/139531826-f13d5526-9441-442d-a9af-433380edfc5f.png)
-
+![image](https://user-images.githubusercontent.com/93015185/139532122-d9994fac-d186-4dff-bc60-165fbc8e53a3.png)
+![image](https://user-images.githubusercontent.com/93015185/139532133-5bdf0215-ecec-401b-9917-6cdf42ed13b1.png)
+![image](https://user-images.githubusercontent.com/93015185/139532150-9236f9e4-821a-4d69-ae34-f9c866c44686.png)
 
 KONSEP 2
 
 1. menghitung kecepatan
 
-![image](https://user-images.githubusercontent.com/93015185/139531840-67577235-77d7-460e-a647-144e8e3a29d6.png)
-![image](https://user-images.githubusercontent.com/93015185/139531856-a20dd115-8a92-4581-8b0f-4ba49f3bea72.png)
-![image](https://user-images.githubusercontent.com/93015185/139531863-8a153bbe-e174-4c41-aa30-d32358a8cdc5.png)
+![image](https://user-images.githubusercontent.com/93015185/139532163-3c07f9de-c49c-4523-b145-936e2699f275.png)
+
 
 2. menghitung jarak
 
