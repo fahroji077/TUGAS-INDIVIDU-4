@@ -25,16 +25,17 @@ KONSEP 2
 1. menghitung kecepatan
 
 ![image](https://user-images.githubusercontent.com/93015185/139532163-3c07f9de-c49c-4523-b145-936e2699f275.png)
-
+![image](https://user-images.githubusercontent.com/93015185/139532224-dca92862-dd7c-414a-b68f-be890365cb82.png)
+![image](https://user-images.githubusercontent.com/93015185/139532252-93f1b0ec-f4eb-4f98-b5bc-21d46f9f123f.png)
 
 2. menghitung jarak
 
-![image](https://user-images.githubusercontent.com/93015185/139531875-ff9f27dc-e4af-48a1-bcec-64ceb80ce278.png)
-![image](https://user-images.githubusercontent.com/93015185/139531883-198d8a85-1f24-48fc-b5e0-62b60ab93578.png)
-![image](https://user-images.githubusercontent.com/93015185/139531889-30be7b92-c23b-47b6-9f93-19b41c7bdc2b.png)
+![image](https://user-images.githubusercontent.com/93015185/139532277-f06131e3-19e3-4318-a946-9cd772b02106.png)
+![image](https://user-images.githubusercontent.com/93015185/139532292-ec7ed443-73ee-4103-b255-3d816d5fa303.png)
+![image](https://user-images.githubusercontent.com/93015185/139532318-8a76fab8-53a8-4fea-8e93-a72a1924ad52.png)
 
 3. menghitung waktu
 
-![image](https://user-images.githubusercontent.com/93015185/139531906-f34a465e-2261-4e76-9575-d31d821b5c92.png)
-![image](https://user-images.githubusercontent.com/93015185/139531912-b6683619-b2db-4e38-b51c-13c4720057dc.png)
-![image](https://user-images.githubusercontent.com/93015185/139531915-f5cdf2c4-09a5-4bfd-a86c-2b7c2d042c27.png)
+![image](https://user-images.githubusercontent.com/93015185/139532336-945deaa8-9cac-4870-bc26-a790575b5066.png)
+![image](https://user-images.githubusercontent.com/93015185/139532349-95581a04-4ed5-4e75-be9c-766554da32d1.png)
+![image](https://user-images.githubusercontent.com/93015185/139532389-8e207643-e47d-4302-ad32-0387397784c3.png)
