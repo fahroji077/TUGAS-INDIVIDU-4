@@ -4,9 +4,9 @@ KONSEP 1
 
 1. menghitung kecepatan
 
-![image](https://user-images.githubusercontent.com/93015185/139531705-2a31cf99-d6d9-456d-82af-c548651aa6f5.png)
-![image](https://user-images.githubusercontent.com/93015185/139531716-9a96454a-724c-44a7-a094-9dedcf98b214.png)
-![image](https://user-images.githubusercontent.com/93015185/139531729-b764e7c2-52d8-4752-b0d6-a6eb858d8194.png)
+![image](https://user-images.githubusercontent.com/93015185/139532008-65d10d69-91d4-4d2c-b14e-7c9d71d63b7c.png)
+![image](https://user-images.githubusercontent.com/93015185/139532016-affb00ad-bc8f-46cd-9a91-dc10e6f7371a.png)
+
 
 2. menghitung jarak
 
